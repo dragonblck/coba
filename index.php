@@ -23,6 +23,6 @@ $semester = 2;
         <p>Kelas    : <?= $kelas; ?></p>
         <p>Semester : <?= $semester; ?></p>
         <p>NIM      : <?= $nim; ?></p>
-    </div>
+    </div><p>Terima kasih</p>
 </body>
 </html>
